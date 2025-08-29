@@ -70,7 +70,7 @@ Then run `Predictor.ipynb` to train the model and test predictions.
 ```
 .
 ├── Predictor.ipynb     # Main notebook with training & prediction
-├── data/               # Dataset (if available)
+├── data/               # Dataset
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
 ```
